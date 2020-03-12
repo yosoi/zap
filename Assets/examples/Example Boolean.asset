@@ -9,6 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5d8d472413fe57efe863bd8fe01ce6f6, type: 3}
-  m_Name: Example Event
+  m_Script: {fileID: 11500000, guid: 344abf69108e76bdcb964407725fdc3e, type: 3}
+  m_Name: Boolean
   m_EditorClassIdentifier: 
+  OnValueChanged:
+    m_PersistentCalls:
+      m_Calls: []
